@@ -29,7 +29,7 @@
 4. **粘贴并运行命令**:
    - 复制以下命令：
    ```powershell
-   irm "https://github.com/memstechtips/Winhance/raw/main/Winhance.ps1" | iex
+   irm "github.com/XLST-Qemu/Winhance-zh_CN-v2.0/raw/main/Winhance.ps1" | iex
    ```
    - 要粘贴到 PowerShell，请在 PowerShell 或终端窗口中**右键单击**或按**Ctrl + V**
    - 按下 **Enter** 执行命令
@@ -43,34 +43,34 @@
 - 卸载 Windows 应用程序（永久删除）
   - Microsoft Edge
   - OneDrive
-  - Recall
+  - 回顾
   - Copilot
-  - Other Useless Windows Bloatware 
+  - 其他无用 Windows 臃肿软件 
 
 ### 优化 🚀
-- Set UAC Notification Level
-- Disable or Enable Windows Security Suite
-- Privacy Settings
-- Gaming Optimizations
-- Windows Updates
-- Power Settings
-- Scheduled Tasks
-- Windows Services
+- 设置UAC通知级别
+- 禁用或启用 Windows 安全套件
+- 隐私设置
+- 游戏优化
+- Windows 更新
+- 电源设置
+- 计划任务
+- Windows 服务
 
 ### 自定义 🎨
-- Toggle Windows Dark or Light Mode
-- Taskbar Customization
-- Start Menu Settings
-- Explorer Options
-- Notification Preferences
-- Sound Settings
-- Accessibility Options
-- Search Configuration
+-切换 Windows 暗模式或亮模式
+-任务栏自定义
+-开始菜单设置
+-资源管理器选项
+-通知首选项
+-声音设置
+-辅助功能选项
+-搜索配置
 
 ### 关于 ⓘ
-- About Winhance
-- Author Socials
-- Support Information
+- 关于 Winhance
+- 作者社交媒体
+- 支持信息
 ---
 > [!NOTE]
 - 此工具当前正在开发中。任何问题都可以通过“问题”标签报告。
@@ -81,16 +81,16 @@
 
 如果**Winhance**对您有帮助，请考虑支持该项目——这真的很有帮助！
 
-[![Support via PayPal](https://img.shields.io/badge/Support-via%20PayPal-FFD700?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/memstech)
+[![通过 PayPal 支持](https://img.shields.io/badge/Support-via%20PayPal-FFD700?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/memstech)
 
 ### 反馈与社区
 
 如果您有反馈、建议，或需要 Winhance 的帮助，请加入我们在 GitHub 或 Discord 社区的讨论：
 
-[![Join the Discussion](https://img.shields.io/badge/Join-the%20Discussion-2D9F2D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/memstechtips/Winhance/discussions)
-[![Join Discord Community](https://img.shields.io/badge/Join-Discord%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://www.discord.gg/zWGANV8QAX)
+[![加入讨论](https://img.shields.io/badge/Join-the%20Discussion-2D9F2D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/memstechtips/Winhance/discussions)
+[![加入 Discord 社区](https://img.shields.io/badge/Join-Discord%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://www.discord.gg/zWGANV8QAX)
 
-### TODO:
+### 计划:
 - 为可以使用某些预设移除的应用程序创建单独/个别的复选框。 
 - 实施修复“无法打开链接”问题的解决方案，原因是Edge已被移除。 
 - 修复Windows 10上删除旧版MS Edge的问题。
